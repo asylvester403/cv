@@ -1,0 +1,146 @@
+/* The main set up for the background */
+body {
+    background-image: url(picturesRestaurant/Dining.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax {
+    height: 1000px;
+}
+.parallaxTwo{
+    height: 350px;
+}
+
+
+
+
+
+
+/* Fonts CSS */
+h1 {
+    background-image: url(picturesRestaurant/Dining2.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #b0f5c7;
+    font-family: 'Viaoda Libre', cursive;
+    font-size: 69px;
+    font-weight: 1000;
+    margin-bottom: 0;
+    text-align: center;
+    text-shadow: #000000 0 0 5px;
+}
+
+h2 {
+    color: black;
+    font-family: 'Viaoda Libre', cursive;
+    font-weight: 800;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Viaoda Libre', cursive;
+    font-weight: 800;
+}
+
+h4 {
+    font-family: 'Viaoda Libre', cursive;
+    font-weight: 500;
+}
+
+p {
+    color: #FFFFFF;
+    font-family: 'Viaoda Libre', cursive;
+    text-shadow: #000000 0 0 5px;
+}
+
+
+
+
+
+/* Carousel Section */
+.carousel {
+    background-image: url(picturesRestaurant/Dining2.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 950px;
+}
+.pictures {
+    padding: 2rem 10% 0;
+    max-height: 900px;
+}
+
+
+
+
+
+
+/* Review Section */
+.Reviews {
+    background-image: url(picturesRestaurant/Dining2.jpg);
+    height: 1000px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.col-lg-4 {
+    padding-left: 10%;
+}
+
+
+
+
+
+
+/* Google Maps and Address Area */
+.mapContainer {
+    background-image: url(picturesRestaurant/Dining2.jpg);
+    height: 855px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.flex-grid {
+    display: flex;
+}
+.address {
+    padding-left: 15%;
+    margin-top: 35%;
+}
+#map {
+    height: 175%;
+    width: 100%;
+    margin: 0 5% 0;
+    align-content: flex-start;
+}
+
+
+
+
+
+
+
+
+
+/* Footer :)*/
+.footer {
+    font-size: 30px;
+    text-align: center;
+    background-image: url(picturesRestaurant/Dining2.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+i:hover {
+    color: #bdeece;
+}i {
+    color: #073316;
+}

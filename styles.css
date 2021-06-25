@@ -1,0 +1,85 @@
+body {
+    background-color: #A9F1DF;
+}
+
+hr {
+    background-color: #A9F1DF;
+    border-top: 25px dotted #1eae98;
+    width: 15%;
+    margin: 75px 43% 75px;
+}
+
+p {
+    color: #151515;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12pt;
+}
+
+.thesis {
+    color: #151515;
+    font-size: 25pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 25px;
+    text-align: center;
+}
+
+p2 {
+    color: #233E9B;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.selfie {
+    width: 200px;
+    height: 550px;
+    margin-left: 25px;
+    margin-top: 10px;
+    position: absolute;
+}
+
+#biography {
+    width: 75%;
+    padding-top: 20px;
+    padding-bottom: 300px;
+    margin-left: 250px;
+}
+
+.portfolioPara {
+    padding-top: 10px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+.card-group {
+    margin: 0 10% 10%;
+    width: 75%;
+    text-align: center;
+}
+
+.card {
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: #dafff9;
+}
+
+.card-img-top {
+    height: 250px;
+}
+
+.card-text {
+    height: 50px;
+}
+#contact {
+    width: 25%;
+    margin: 0 38% 1rem;
+    border: solid #1eae98;
+    border-width: 50%;
+    padding: 20px 0 20px 20px;
+}
+
+@media (max-width: 900px){
+#contact {
+    font-size: 12px;
+}
+}
